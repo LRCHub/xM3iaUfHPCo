@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "エンドロール",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2026-01-02T14:04:21.532072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "泉まくら",
+      "has_synced": false,
+      "path": "select/01_エンドロール_泉まくら.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エンドロール - From THE FIRST TAKE",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/02_エンドロール_-_From_THE_FIRST_TAKE_sumika.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/03_エンドロール_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "インナージャーニー",
+      "has_synced": true,
+      "path": "select/04_エンドロール_インナージャーニー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エンドロール (Album mix)",
+      "artist": "インナージャーニー",
+      "has_synced": true,
+      "path": "select/05_エンドロール_(Album_mix)_インナージャーニー.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "夏代孝明",
+      "has_synced": true,
+      "path": "select/06_エンドロール_夏代孝明.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "PSYQUI",
+      "has_synced": true,
+      "path": "select/07_エンドロール_PSYQUI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "Mikanzil",
+      "has_synced": true,
+      "path": "select/08_エンドロール_Mikanzil.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/09_エンドロール_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "KEYTALK",
+      "has_synced": true,
+      "path": "select/10_エンドロール_KEYTALK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/11_エンドロール_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "Karin.",
+      "has_synced": true,
+      "path": "select/12_エンドロール_Karin..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/13_エンドロール_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "エンドロール",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/14_エンドロール_秦基博.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンドロール",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_エンドロール_ロクデナシ.txt"
+    }
+  ]
+}
